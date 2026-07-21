@@ -26,12 +26,12 @@
 
 ### **Game Dev & Core Languages**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=unreal,unity,cs,cpp,dotnet,sqlite,git,github" />
+  <img src="https://skillicons.dev/icons?i=unreal,unity,cs,cpp" />
 </p>
 
 ### **Web & Other Technologies**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,html,css" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,dotnet,sqlite,git,github" />
 </p>
 
 ---
