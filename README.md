@@ -55,5 +55,5 @@
 ---
 
 <div align="center">
-  <sub><i>"The strength of the night is the wind..."</i></sub>
+  <sub><i>"Words are pale shadows of forgotten names. As names have power, words have power."</i></sub>
 </div>
