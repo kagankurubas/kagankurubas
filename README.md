@@ -55,19 +55,8 @@
 ---
 
 <div align="center">
-  <sub><i>"All that is gold does not glitter,
 
-Not all those who wander are lost;
+> *"In the beginning the Universe was created. This has made a lot of people very angry and been widely regarded as a bad move."*  
+> — **Douglas Adams, The Hitchhiker's Guide to the Galaxy**
 
-The old that is strong does not wither,
-
-Deep roots are not reached by the frost.
-
-From the ashes a fire shall be woken,
-
-A light from the shadows shall spring;
-
-Renewed shall be blade that was broken,
-
-The crownless again shall be king."</i></sub>
 </div>
