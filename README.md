@@ -1,16 +1,57 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**kagankurubas/kagankurubas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Kağan
 
-Here are some ideas to get you started:
+### Computer Engineer | Game Developer | Creative Mind
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nuri-kağan-kurubas-b512b7217/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nurikagankurubas@gmail.com)
+
+---
+
+> *"Blending logic and art through code, sound, and interactive experiences."*
+
+</div>
+
+## 🚀 About Me
+
+- 💻 **Background:** Computer Engineer with a strong passion for game development and system architecture.
+- 🎮 **Current Focus:** Deep diving into **Unreal Engine 5** & **C++** / **Blueprints** to craft unique gaming experiences.
+- 🎨 **Interests:** Game Design, Music Production, and exploring AI-assisted workflows & Image Generation.
+- 🎯 **Goal:** Building immersive games that tell great stories and leave a lasting impression.
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### **Game Dev & Core Languages**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=unreal,cs,cpp,dotnet,sqlite,git,github" />
+</p>
+
+### **Web & Other Technologies**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,html,css" />
+</p>
+
+---
+
+## 📌 Featured Projects
+
+| Project | Description | Tech Stack | Status |
+| :--- | :--- | :--- | :--- |
+| **🎮 UE5 Game Prototype** | Mechanics & world building in Unreal Engine 5 | `UE5` `Blueprints` | 🛠️ In Progress |
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GITHUB_KULLANICI_ADIN&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GITHUB_KULLANICI_ADIN&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+</div>
+
+---
+
+<div align="center">
+  <sub><i>"The strength of the night is the wind..."</i></sub>
+</div>
