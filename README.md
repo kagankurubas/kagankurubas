@@ -26,7 +26,7 @@
 
 ### **Game Dev & Core Languages**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=unreal,cs,cpp,dotnet,sqlite,git,github" />
+  <img src="https://skillicons.dev/icons?i=unreal,unity,cs,cpp,dotnet,sqlite,git,github" />
 </p>
 
 ### **Web & Other Technologies**
