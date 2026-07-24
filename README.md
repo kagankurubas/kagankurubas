@@ -64,6 +64,8 @@
 <p align="center">
  "All that is gold does not glitter,
   Not all those who wander are lost..."
+</p>
+<p align="center">
   **J.R.R. Tolkien**
-
+</p>
 </p>
