@@ -49,14 +49,9 @@
   <img
     align="top"
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=kagankurubas&show_icons=true&theme=tokyonight&hide_border=true"
-    width="49%"
+    width="100%"
   />
-  <img
-    align="top"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kagankurubas&layout=compact&theme=tokyonight&hide_border=true"
-    width="49%"
-  />
-</p>
+  </p>
 
 ---
 
