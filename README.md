@@ -57,12 +57,12 @@
     alt="Repositories per Language"
   />
 </p>
+
 ---
 
-<div align="center">
-##
+<p align="center">
 > *"All that is gold does not glitter,*  
 > *Not all those who wander are lost..."*  
 > — **J.R.R. Tolkien**
 
-</div>
+</p>
