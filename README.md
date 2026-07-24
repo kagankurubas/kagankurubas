@@ -45,16 +45,17 @@
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img
-    align="top"
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=kagankurubas&show_icons=true&theme=tokyonight&hide_border=true"
-    width="100%"
-  />
-  </p>
+<div align="center">
 
----
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kagankurubas&theme=tokyonight)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kagankurubas&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kagankurubas&theme=tokyonight)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kagankurubas&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kagankurubas&theme=tokyonight&utcOffset=3)
+
+</div>
 <div align="center">
 
 > *"All that is gold does not glitter,*  
