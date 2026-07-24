@@ -48,7 +48,7 @@
 <div align="center">
  <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kagankurubas&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kagankurubas&layout=compact&theme=tokyonight&hide_border=true" width="100%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kagankurubas&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 </div>
 
