@@ -50,15 +50,14 @@
     align="top"
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=kagankurubas&show_icons=true&theme=tokyonight&hide_border=true"
     width="49%"
-  />
-</p>
-<p align="center">
-  <img
+    <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kagankurubas&theme=tokyonight"
     width="49%"
     alt="Repositories per Language"
   />
+  />
 </p>
+
 <div align="center">
 
 > *"All that is gold does not glitter,*  
