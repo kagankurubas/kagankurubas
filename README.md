@@ -47,22 +47,16 @@
 
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kagankurubas&theme=tokyonight"
-    width="100%"
-    alt="GitHub Profile Details"
+    align="top"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=kagankurubas&show_icons=true&theme=tokyonight&hide_border=true"
+    width="49%"
   />
 </p>
-
 <p align="center">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kagankurubas&theme=tokyonight"
     width="49%"
     alt="Repositories per Language"
-  />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kagankurubas&theme=tokyonight"
-    width="49%"
-    alt="GitHub Stats"
   />
 </p>
 <div align="center">
