@@ -56,7 +56,7 @@
     width="49%"
     alt="Repositories per Language"
   />
-  />
+  
 </p>
 
 <div align="center">
