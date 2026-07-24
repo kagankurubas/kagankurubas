@@ -45,17 +45,26 @@
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kagankurubas&theme=tokyonight"
+    width="100%"
+    alt="GitHub Profile Details"
+  />
+</p>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kagankurubas&theme=tokyonight)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kagankurubas&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kagankurubas&theme=tokyonight)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kagankurubas&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kagankurubas&theme=tokyonight&utcOffset=3)
-
-</div>
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kagankurubas&theme=tokyonight"
+    width="49%"
+    alt="Repositories per Language"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kagankurubas&theme=tokyonight"
+    width="49%"
+    alt="GitHub Stats"
+  />
+</p>
 <div align="center">
 
 > *"All that is gold does not glitter,*  
