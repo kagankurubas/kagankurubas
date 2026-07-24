@@ -50,7 +50,8 @@
     align="top"
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=kagankurubas&show_icons=true&theme=tokyonight&hide_border=true"
     width="49%"
-    <img
+  />
+  <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kagankurubas&theme=tokyonight"
     width="49%"
     alt="Repositories per Language"
