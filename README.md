@@ -56,12 +56,11 @@
     width="49%"
     alt="Repositories per Language"
   />
-  
 </p>
 ---
 
 <div align="center">
-
+##
 > *"All that is gold does not glitter,*  
 > *Not all those who wander are lost..."*  
 > — **J.R.R. Tolkien**
