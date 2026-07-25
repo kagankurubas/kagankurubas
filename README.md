@@ -55,12 +55,11 @@
     width="49%"
   />
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kagankurubas&theme=tokyonight"
+    align="top"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=kagankurubas&theme=tokyonight&hide_border=true"
     width="49%"
-    alt="Repositories per Language"
   />
 </p>
-
 ---
 
 <p align="center">
