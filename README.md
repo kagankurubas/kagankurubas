@@ -32,7 +32,7 @@
 
 ### **Web, Databases & Tools**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,html,css,dotnet,sqlite,hive,git,github" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,dotnet,sqlite,git,github" />
 </p>
 
 ---
