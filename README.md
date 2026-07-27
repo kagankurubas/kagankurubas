@@ -1,71 +1,72 @@
 <div align="center">
 
-# 👋 Hi, I'm Kağan
+# Hi, I'm Kağan
 
-### Computer Engineer | Game Developer | Creative Mind
+**Computer Engineer · Game Developer · Musician**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nuri-kağan-kurubas-b512b7217/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nurikagankurubas@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kagankurubas)
+I build gameplay systems and cross-platform applications by combining code, design, and sound.
 
----
-
-> *"Blending logic and art through code, sound, and interactive experiences."*
+[Portfolio](https://kagankurubas.github.io) ·
+[LinkedIn](https://linkedin.com/in/nuri-kağan-kurubas-b512b7217/) ·
+[Email](mailto:nurikagankurubas@gmail.com)
 
 </div>
 
-## 🚀 About Me
+---
 
-- 💻 **Background:** Computer Engineer focused on game development, system architecture, and cross-platform mobile solutions.
-- 🎮 **Current Focus:** Deep diving into **Unreal Engine 5** & **C++** / **Blueprints** to craft unique gaming experiences.
-- 🎨 **Interests:** Game Design, Music Production (DAW/Cubase), Worldbuilding, and AI-assisted creative workflows.
-- 🎯 **Goal:** Building immersive, story-driven games and high-performance applications.
+## About Me
+
+* Computer Engineer focused on **game development**, **software architecture**, and **cross-platform applications**.
+* Currently developing **Habitto**, a modern local-first habit and routine tracker.
+* Expanding my skills in **Unreal Engine 5**, **C++**, and **Blueprints**.
+* Interested in gameplay systems, worldbuilding, music production, and interactive storytelling.
+
+## Featured Work
+
+### 🎯 [Habitto](https://github.com/kagankurubas/habitto)
+
+A modern, local-first habit and routine tracker built with Flutter.
+
+* Offline-first data storage
+* Habit scheduling and progress tracking
+* Local notifications and reminders
+* Streaks, statistics, and achievement systems
+* Local backup and restore support
+
+**Technologies:** `Flutter` `Dart` `Hive` `Local Notifications`
 
 ---
 
-## 🛠️ Tech Stack & Tools
+### 🌐 [Portfolio Website](https://kagankurubas.github.io)
 
-### **Game Dev & Core Languages**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=unreal,unity,cs,cpp,flutter,dart" />
-</p>
+My personal portfolio website featuring my background, technical skills, and selected projects.
 
-### **Web, Databases & Tools**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,html,css,dotnet,sqlite,git,github" />
-</p>
+**Technologies:** `HTML` `CSS` `JavaScript`
+
+## Core Technologies
+
+### Game Development
+
+`Unreal Engine 5` · `Unity` · `C++` · `C#` · `Blueprints`
+
+### Application Development
+
+`Flutter` · `Dart` · `.NET` · `Hive` · `SQLite`
+
+### Tools
+
+`Git` · `GitHub` · `Visual Studio` · `VS Code`
+
+## Current Direction
+
+* Preparing Habitto for its first public release
+* Building a public Unreal Engine 5 gameplay systems demo
+* Exploring the intersection of software, game design, music, and interactive storytelling
 
 ---
 
-## 📌 Featured Projects
+<div align="center">
 
-| Project | Description | Tech Stack | Status |
-| :--- | :--- | :--- | :--- |
-| **🎯 [Habit Tracker](https://github.com/kagankurubas/habit-tracker)** | Offline-first mobile app featuring precise background alarm notifications & local NoSQL storage. | `Flutter` `Dart` `Hive` `Local Notifications` | 🚀 Completed |
-| **🎮 UE5 Game Prototype** | Interactive mechanics, gameplay systems, and world building in Unreal Engine 5. | `UE5` `C++` `Blueprints` | 🛠️ In Progress |
+**Building systems that feel as good as they function.**
 
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img
-    align="top"
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=kagankurubas&show_icons=true&theme=tokyonight&hide_border=true"
-    width="49%"
-  />
-  <img
-    align="top"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=kagankurubas&theme=tokyonight&hide_border=true"
-    width="49%"
-  />
-</p>
----
-
-<p align="center">
-  <i>"All that is gold does not glitter,<br>
-  Not all those who wander are lost..."</i>
-</p>
-<p align="center">
-  <b>— J.R.R. Tolkien</b>
-</p>
+</div>
