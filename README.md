@@ -37,7 +37,7 @@ A modern, local-first habit and routine tracker built with Flutter.
 **Technologies:** `Flutter` `Dart` `Hive` `Local Notifications`
 
 - Public Android release available through GitHub Releases
-- - Automated analysis, tests, and Android build validation with GitHub Actions
+- Automated analysis, tests, and Android build validation with GitHub Actions
 
 ---
 
