@@ -35,6 +35,8 @@ A modern, local-first habit and routine tracker built with Flutter.
 
 **Technologies:** `Flutter` `Dart` `Hive` `Local Notifications`
 
+- Public Android release available through GitHub Releases
+
 ---
 
 ### 🌐 [Portfolio Website](https://kagankurubas.github.io)
@@ -59,9 +61,10 @@ My personal portfolio website featuring my background, technical skills, and sel
 
 ## Current Direction
 
-* Preparing Habitto for its first public release
-* Building a public Unreal Engine 5 gameplay systems demo
-* Exploring the intersection of software, game design, music, and interactive storytelling
+- Maintaining **Habitto v1.0.0** and planning its next feature release
+- Building a public **Unreal Engine 5 gameplay systems demo**
+- Developing **Bookshelf**, a multilingual book library and note-taking application
+- Exploring the intersection of software, game design, music, and interactive storytelling
 
 ---
 
