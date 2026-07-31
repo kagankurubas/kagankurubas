@@ -2,9 +2,10 @@
 
 # Hi, I'm Kağan
 
-**Computer Engineer · Game Developer · Musician**
+### Computer Engineer · Game Developer · Software Developer · Musician
 
-I build gameplay systems and cross-platform applications by combining code, design, and sound.
+I build software, gameplay systems, and interactive experiences by combining  
+**code, design, sound, and storytelling**.
 
 [Portfolio](https://kagankurubas.github.io) ·
 [LinkedIn](https://linkedin.com/in/nuri-kağan-kurubas-b512b7217/) ·
@@ -19,33 +20,80 @@ I build gameplay systems and cross-platform applications by combining code, desi
 - Computer Engineer focused on **game development**, **software architecture**, and **cross-platform applications**.
 - Creator and maintainer of **Habitto**, a released local-first habit and routine tracker for Android.
 - Currently expanding my skills in **Unreal Engine 5**, **C++**, and **Blueprints**.
-- Interested in gameplay systems, worldbuilding, music production, and interactive storytelling.
-
+- Experienced in developing game projects in a professional environment, although those projects are not publicly available.
+- Interested in gameplay systems, worldbuilding, music production, interactive storytelling, and creative technology.
 
 ## Featured Work
 
-### 🎯 [Habitto](https://github.com/kagankurubas/habitto)
+### [Habitto](https://github.com/kagankurubas/habitto)
 
-A modern, local-first habit and routine tracker built with Flutter.
+A customizable, local-first habit and routine tracker built with Flutter.
 
-* Offline-first data storage
-* Habit scheduling and progress tracking
-* Local notifications and reminders
-* Streaks, statistics, and achievement systems
-* Local backup and restore support
+Habitto helps users build consistent routines through flexible scheduling, reminders, statistics, streaks, themes, and achievements while keeping personal data stored locally.
 
-**Technologies:** `Flutter` `Dart` `Hive` `Local Notifications`
+**Highlights**
 
 - Public Android release available through GitHub Releases
-- Automated analysis, tests, and Android build validation with GitHub Actions
+- Flexible daily, weekly, interval, and custom-day scheduling
+- Local notifications and habit reminders
+- Streak, completion, and activity tracking
+- Statistics, charts, and achievement system
+- Multiple themes and appearance options
+- Local JSON backup and restore
+- Offline-first and privacy-focused architecture
+- Automated analysis, testing, and Android build validation with GitHub Actions
+
+**Technologies**
+
+`Flutter` · `Dart` · `Hive` · `Local Notifications` · `GitHub Actions`
+
+<p>
+  <a href="https://github.com/kagankurubas/habitto">
+    <img
+      src="https://img.shields.io/badge/View_Source-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="View Habitto Source"
+    >
+  </a>
+  <a href="https://github.com/kagankurubas/habitto/releases/latest">
+    <img
+      src="https://img.shields.io/badge/Download_APK-3DDC84?style=for-the-badge&logo=android&logoColor=white"
+      alt="Download Habitto APK"
+    >
+  </a>
+</p>
 
 ---
 
-### 🌐 [Portfolio Website](https://kagankurubas.github.io)
+### [Personal Portfolio](https://kagankurubas.github.io)
 
-My personal portfolio website featuring my background, technical skills, and selected projects.
+A responsive developer portfolio presenting my software projects, game-development direction, technical background, and creative work.
 
-**Technologies:** `HTML` `CSS` `JavaScript`
+**Highlights**
+
+- Project-focused presentation
+- Habitto case study and application preview
+- Responsive desktop and mobile design
+- Software, game-development, and music sections
+- Direct project, contact, and download links
+
+**Technologies**
+
+`HTML` · `CSS` · `JavaScript` · `GitHub Pages`
+
+<p>
+  <a href="https://kagankurubas.github.io">
+    <img
+      src="https://img.shields.io/badge/Visit_Portfolio-6C63FF?style=for-the-badge"
+      alt="Visit Portfolio"
+    >
+  </a>
+  <a href="https://github.com/kagankurubas/kagankurubas.github.io">
+    <img
+      src="https://img.shields.io/badge/View_Source-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="View Portfolio Source"
+    >
+  </a>
+</p>
 
 ## Core Technologies
 
@@ -57,16 +105,70 @@ My personal portfolio website featuring my background, technical skills, and sel
 
 `Flutter` · `Dart` · `.NET` · `Hive` · `SQLite`
 
-### Tools
+### Web Development
 
-`Git` · `GitHub` · `Visual Studio` · `VS Code`
+`HTML` · `CSS` · `JavaScript` · `React`
+
+### Development Tools
+
+`Git` · `GitHub` · `GitHub Actions` · `Visual Studio` · `VS Code`
+
+### Creative Work
+
+`Music Production` · `Sound Design` · `Interactive Audio` · `Worldbuilding`
 
 ## Current Direction
 
 - Maintaining and improving **Habitto** after its first public Android release
 - Expanding Habitto's automated unit and widget test coverage
 - Learning **Unreal Engine 5**, **C++**, and **Blueprints**
-- Preparing a collaborative taskbar idle game as my next public game-development project
+- Planning a collaborative **taskbar idle game** as my next public game-development project
+- Improving my portfolio with stronger case studies and completed public projects
+- Exploring the intersection of software, game design, music, and interactive storytelling
+
+## Development Approach
+
+I care about building projects that are not only functional, but also:
+
+- Clear and maintainable
+- Visually coherent
+- Thoughtfully documented
+- Easy to test and iterate on
+- Designed around a real user experience
+- Complete enough to publish and use
+
+## Contact
+
+I am open to opportunities and collaborations involving:
+
+- Game development
+- Gameplay programming
+- Flutter and cross-platform applications
+- Software development
+- Creative technology
+- Interactive audio and music
+
+<p>
+  <a href="mailto:nurikagankurubas@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email"
+    >
+  </a>
+  <a href="https://linkedin.com/in/nuri-kağan-kurubas-b512b7217/">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    >
+  </a>
+  <a href="https://kagankurubas.github.io">
+    <img
+      src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge"
+      alt="Portfolio"
+    >
+  </a>
+</p>
+
 ---
 
 <div align="center">
