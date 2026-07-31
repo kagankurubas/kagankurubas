@@ -16,10 +16,11 @@ I build gameplay systems and cross-platform applications by combining code, desi
 
 ## About Me
 
-* Computer Engineer focused on **game development**, **software architecture**, and **cross-platform applications**.
-* Currently developing **Habitto**, a modern local-first habit and routine tracker.
-* Expanding my skills in **Unreal Engine 5**, **C++**, and **Blueprints**.
-* Interested in gameplay systems, worldbuilding, music production, and interactive storytelling.
+- Computer Engineer focused on **game development**, **software architecture**, and **cross-platform applications**.
+- Creator and maintainer of **Habitto**, a released local-first habit and routine tracker for Android.
+- Currently expanding my skills in **Unreal Engine 5**, **C++**, and **Blueprints**.
+- Interested in gameplay systems, worldbuilding, music production, and interactive storytelling.
+
 
 ## Featured Work
 
@@ -36,6 +37,7 @@ A modern, local-first habit and routine tracker built with Flutter.
 **Technologies:** `Flutter` `Dart` `Hive` `Local Notifications`
 
 - Public Android release available through GitHub Releases
+- - Automated analysis, tests, and Android build validation with GitHub Actions
 
 ---
 
@@ -61,11 +63,10 @@ My personal portfolio website featuring my background, technical skills, and sel
 
 ## Current Direction
 
-- Maintaining **Habitto v1.0.0** and planning its next feature release
-- Building a public **Unreal Engine 5 gameplay systems demo**
-- Developing **Bookshelf**, a multilingual book library and note-taking application
-- Exploring the intersection of software, game design, music, and interactive storytelling
-
+- Maintaining and improving **Habitto** after its first public Android release
+- Expanding Habitto's automated unit and widget test coverage
+- Learning **Unreal Engine 5**, **C++**, and **Blueprints**
+- Preparing a collaborative taskbar idle game as my next public game-development project
 ---
 
 <div align="center">
