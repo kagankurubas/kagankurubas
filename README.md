@@ -20,7 +20,7 @@ I build software, gameplay systems, and interactive experiences by combining
 - Computer Engineer focused on **game development**, **software architecture**, and **cross-platform applications**.
 - Creator and maintainer of **Habitto**, a released local-first habit and routine tracker for Android.
 - Currently expanding my skills in **Unreal Engine 5**, **C++**, and **Blueprints**.
-- Experienced in developing game projects in a professional environment, although those projects are not publicly available.
+- Professional experience developing game projects under company onfidentiality; the related source code cannot be shared publicly.
 - Interested in gameplay systems, worldbuilding, music production, interactive storytelling, and creative technology.
 
 ## Featured Work
@@ -123,7 +123,7 @@ A responsive developer portfolio presenting my software projects, game-developme
 - Expanding Habitto's automated unit and widget test coverage
 - Learning **Unreal Engine 5**, **C++**, and **Blueprints**
 - Planning a collaborative **taskbar idle game** as my next public game-development project
-- Improving my portfolio with stronger case studies and completed public projects
+- Documenting future projects through focused technical case studies
 - Exploring the intersection of software, game design, music, and interactive storytelling
 
 ## Development Approach
