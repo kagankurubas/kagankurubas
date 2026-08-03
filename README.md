@@ -27,21 +27,23 @@ I build software, gameplay systems, and interactive experiences by combining
 
 ### [Habitto](https://github.com/kagankurubas/habitto)
 
-A customizable, local-first habit and routine tracker built with Flutter.
+A customizable, bilingual, local-first habit and routine tracker built with Flutter.
 
-Habitto helps users build consistent routines through flexible scheduling, reminders, statistics, streaks, themes, and achievements while keeping personal data stored locally.
+Habitto helps users build consistent routines through flexible scheduling, timezone-aware reminders, statistics, streaks, themes, achievements, and secure local backups while keeping personal data stored on the device.
 
 **Highlights**
 
-- Public Android release available through GitHub Releases
+- Habitto v1.1.0 available through GitHub Releases
+- English and Turkish localization with persistent language selection
 - Flexible daily, weekly, interval, and custom-day scheduling
-- Local notifications and habit reminders
-- Streak, completion, and activity tracking
-- Statistics, charts, and achievement system
-- Multiple themes and appearance options
-- Local JSON backup and restore
+- Timezone-aware local notifications and habit reminders
+- Streak, completion, statistics, and activity tracking
+- Themes and achievement system
+- Versioned JSON backup and restore
 - Offline-first and privacy-focused architecture
-- Automated analysis, testing, and Android build validation with GitHub Actions
+- Automated formatting, analysis, tests, and Android build validation
+- Signed Android APK tested on a physical device
+- Verified upgrade from v1.0.0 without losing user data
 
 **Technologies**
 
@@ -119,8 +121,8 @@ A responsive developer portfolio presenting my software projects, game-developme
 
 ## Current Direction
 
-- Maintaining and improving **Habitto** after its first public Android release
-- Expanding Habitto's automated unit and widget test coverage
+- Maintaining and improving **Habitto v1.1.0** after its bilingual Android release
+- Expanding Habitto with future accessibility, usability, and test-coverage improvements
 - Learning **Unreal Engine 5**, **C++**, and **Blueprints**
 - Planning a collaborative **taskbar idle game** as my next public game-development project
 - Documenting future projects through focused technical case studies
