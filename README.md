@@ -33,6 +33,27 @@ Developing gameplay systems and interactive experiences with Unity, combining pr
 
 ## Featured Engineering
 
+### BookShelf
+
+**Full-Stack / AI Engineering · React · Supabase**
+
+A personal library app with barcode-scan adding, a Gemini-powered reading
+assistant grounded in the user's own books, and offline use as an
+installable PWA.
+
+- React 19 / Vite PWA with a per-user offline queue
+- Supabase Postgres with Row Level Security and Edge Functions
+- Gemini API kept server-side behind a shared daily quota
+- 610 automated tests, RLS integration tests and static security checks in CI
+
+`v1.1.0 · LIVE`
+
+[Repository](https://github.com/kagankurubas/bookshelf) ·
+[Case Study](https://kagankurubas.github.io/projects/bookshelf) ·
+[Live Demo](https://yourbookshelf-app.netlify.app)
+
+---
+
 ### Habitto
 
 **Product Engineering · Flutter**
@@ -79,15 +100,6 @@ LLM clients through structured tools and validated API interactions.
 **Unity · C# · Game Development**
 
 A 3D low-poly idle game currently in development with Unity and C#.
-
-`IN DEVELOPMENT`
-
-### Bookshelf
-
-**Mobile Development · Client Architecture · UI/UX**
-
-A library management application evolving toward social book lending and
-AI-assisted recommendations based on users' personal libraries.
 
 `IN DEVELOPMENT`
 
