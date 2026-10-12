@@ -9,7 +9,7 @@ across mobile, backend/AI, and game development.
 
 [Portfolio](https://kagankurubas.github.io/) ·
 [Resume](https://kagankurubas.github.io/resume.pdf) ·
-[LinkedIn](https://linkedin.com/in/nuri-kağan-kurubas-b512b7217/)
+[LinkedIn](https://www.linkedin.com/in/kagankurubas/)
 
 </div>
 
@@ -109,7 +109,7 @@ Outside software, I spend time on TTRPG worldbuilding and narrative design.
 
 [Portfolio](https://kagankurubas.github.io/) ·
 [Resume](https://kagankurubas.github.io/resume.pdf) ·
-[LinkedIn](https://linkedin.com/in/nuri-kağan-kurubas-b512b7217/) ·
+[LinkedIn](https://www.linkedin.com/in/kagankurubas/) ·
 [Email](mailto:nurikagankurubas@gmail.com)
 
 </div>
