@@ -71,7 +71,7 @@ architecture and structured habit-management workflows.
 
 ---
 
-### Todoist Gemini Bridge
+### Todoist MCP Bridge
 
 **Systems & AI Engineering · Python · MCP**
 
@@ -88,7 +88,7 @@ LLM clients through structured tools and validated API interactions.
 - Error handling and test coverage
 - Docker containerization
 
-[Repository](https://github.com/kagankurubas/Todoist-Gemini-Bridge) ·
+[Repository](https://github.com/kagankurubas/Todoist-MCP-Bridge) ·
 [Case Study](https://kagankurubas.github.io/projects/todoist)
 
 ---
@@ -99,7 +99,7 @@ LLM clients through structured tools and validated API interactions.
 
 **Unity · C# · Game Development**
 
-A 3D low-poly idle game currently in development with Unity and C#.
+A 2D idle game currently in development with Unity and C#.
 
 `IN DEVELOPMENT`
 
