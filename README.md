@@ -18,8 +18,8 @@ across mobile, backend/AI, and game development.
 ## Engineering Focus
 
 ### 01 — Product Engineering
-Building user-facing applications with an emphasis on maintainable architecture, local-first experiences, and practical product design.  
-**Core technologies:** Flutter · Dart · Hive · REST APIs
+Building user-facing web applications with an emphasis on maintainable architecture, tested data flows, and practical product design.  
+**Core technologies:** React · Vite · Supabase · Vitest · REST APIs
 
 ### 02 — Systems & AI Engineering
 Building backend integrations and LLM-accessible systems, with a focus on clear interfaces, validation, testing, and reliable external API communication.  
@@ -51,23 +51,6 @@ installable PWA.
 [Repository](https://github.com/kagankurubas/bookshelf) ·
 [Case Study](https://kagankurubas.github.io/projects/bookshelf) ·
 [Live Demo](https://yourbookshelf-app.netlify.app)
-
----
-
-### Habitto
-
-**Product Engineering · Flutter**
-
-A mobile habit-tracking application designed around a local-first
-architecture and structured habit-management workflows.
-
-- Flutter / Dart application architecture
-- Hive-based local persistence
-- Habit tracking, streaks, statistics, and achievements
-- Automated testing and CI workflows
-
-[Repository](https://github.com/kagankurubas/habitto) ·
-[Case Study](https://kagankurubas.github.io/projects/habitto)
 
 ---
 
